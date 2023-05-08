@@ -173,6 +173,9 @@ If you think that change is necessary - open a Pull Request in this repository a
 - [ ] **[Play Section]**
       Content of the play section will be replaced with a button that rediects to Steam where user can download the game.
 
+- [ ] **[Css|HTML Best Practices]**
+      Update the code to improve the code by applying HTML&CSS Best practices.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
